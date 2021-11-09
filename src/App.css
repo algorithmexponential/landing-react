@@ -1,0 +1,29 @@
+img {
+  height: auto;
+  width: 20%;
+}
+
+.mascot {
+  text-align: center;
+
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.text {
+  display: inline-block;
+  color: rgb(235, 183, 70);
+  position: absolute;
+  width: 300px;
+}
+
+.icon {
+  width: 15%;
+  height: 20%;
+  position: absolute;
+  top: 10px;
+  left: 5px;
+}
